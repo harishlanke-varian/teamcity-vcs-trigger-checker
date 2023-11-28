@@ -8,6 +8,7 @@ class TeamcityVcsCheckerApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
